@@ -56,7 +56,7 @@ msgstr "elmentve"
 
 #: r2/controllers/api.py:609
 msgid "you should be getting a verification email shortly."
-msgstr ""
+msgstr "Hamarosan kapsz egy ellenőrző emailt."
 
 #: r2/controllers/api.py:611
 msgid "your email has been updated"
@@ -72,19 +72,19 @@ msgstr "a jelszavadat frissítettük"
 
 #: r2/controllers/api.py:901
 msgid "replied"
-msgstr ""
+msgstr "megválaszolva"
 
 #: r2/controllers/api.py:962
 msgid "shared"
-msgstr ""
+msgstr "megosztva"
 
 #: r2/controllers/api.py:965
 msgid "your link has been shared."
-msgstr ""
+msgstr "a linked megosztva"
 
 #: r2/controllers/api.py:1065
 msgid "validation errors"
-msgstr ""
+msgstr "érvényesítési hibák"
 
 #: r2/controllers/api.py:1165 r2/controllers/api.py:1879 r2/lib/menus.py:157
 #: r2/templates/printablebuttons.html:33
@@ -94,16 +94,16 @@ msgstr "törölve"
 
 #: r2/controllers/api.py:1215 r2/templates/subredditstylesheet.html:199
 msgid "bad image name"
-msgstr ""
+msgstr "rossz képnév"
 
 #: r2/controllers/api.py:1219
 #, python-format
 msgid "too many images (you only get %d)"
-msgstr ""
+msgstr "túl sok kép (csak %d- d lehet)"
 
 #: r2/controllers/api.py:1227
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Érvénytelen kép, vagy általános kép hiba"
 
 #: r2/controllers/api.py:1682
 msgid "claimed! now go to someone's userpage and give them a present!"
@@ -115,11 +115,11 @@ msgstr ""
 
 #: r2/controllers/api.py:1703
 msgid "an email will be sent to that account's address shortly"
-msgstr ""
+msgstr "Hamarosan egy emailt küldünk erre a címre"
 
 #: r2/controllers/api.py:1705
 msgid "try again tomorrow"
-msgstr ""
+msgstr "próbáld meg holnap"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: r2/controllers/api.py:1935 r2/controllers/api.py:2116
 msgid "too many css classes"
-msgstr ""
+msgstr "túl sok css classes"
 
 #: r2/controllers/api.py:2132
 msgid "max flair templates reached"
@@ -152,15 +152,15 @@ msgstr "beküldés"
 
 #: r2/controllers/embed.py:65
 msgid "edit this page"
-msgstr ""
+msgstr "oldal szerkesztése"
 
 #: r2/controllers/embed.py:66
 msgid "yes, it's okay!"
-msgstr ""
+msgstr "OK, rendben!"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr ""
+msgstr "előbb olvasd el ezt"
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:425
 #: r2/templates/frametoolbar.html:107
@@ -170,23 +170,23 @@ msgstr "segítség"
 #: r2/controllers/error.py:141
 #, python-format
 msgid "forbidden (%(domain)s)"
-msgstr ""
+msgstr "tiltott (%(domain)ek)"
 
 #: r2/controllers/error.py:162
 msgid "this reddit has been banned"
-msgstr ""
+msgstr "ez a reddit tiltva"
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr ""
+msgstr "jelentkezz be, hogy megtehesd ezt"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
-msgstr ""
+msgstr "előbb adj meg egy valós email címet"
 
 #: r2/controllers/errors.py:29
 msgid "a url is required"
-msgstr ""
+msgstr "egy url szükséges"
 
 #: r2/controllers/errors.py:30
 msgid "you should check that url"
@@ -206,11 +206,11 @@ msgstr "ezt a felhasználónevet már valaki használja"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "ez a felhasználónév egy törölt fiókhoz tartozik"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "nem küldheted el annak, akit blokkoltál"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -222,23 +222,23 @@ msgstr "ezt nem teheted"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "nem ezen a felhasználónéven vagy bejelentkezve"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "a link, amihez hozzászólsz, törölve!"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
-msgstr ""
+msgstr "ez a hozzászólás törölve"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "ez a rész törölve"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "ez a jelszó elfogadhatatlan"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -246,7 +246,7 @@ msgstr "hibás jelszó"
 
 #: r2/controllers/errors.py:44
 msgid "passwords do not match"
-msgstr "hibás jelszó"
+msgstr "a jelszavak nem egyeznek"
 
 #: r2/controllers/errors.py:45
 msgid "please enter a name"
@@ -279,11 +279,11 @@ msgstr "írd be a felhasználónevet"
 #: r2/controllers/errors.py:53
 #, python-format
 msgid "that number isn't in the right range (%(min)d to %(max)d)"
-msgstr ""
+msgstr "ez a szám nincs a jó tartományban (%(min)d tól %(max)d)"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
-msgstr ""
+msgstr "olyan karaktert használtál, amit nem tudunk kezelni"
 
 #: r2/controllers/errors.py:55
 #, python-format
@@ -298,19 +298,19 @@ msgstr "ez a link már be van regisztrálva"
 
 #: r2/controllers/errors.py:57
 msgid "that reddit already exists"
-msgstr ""
+msgstr "ez a reddit már létezik"
 
 #: r2/controllers/errors.py:58
 msgid "that reddit doesn't exist"
-msgstr ""
+msgstr "ez a reddit nem létezik"
 
 #: r2/controllers/errors.py:59
 msgid "you aren't allowed to post there."
-msgstr ""
+msgstr "itt nem szólhatsz hozzá"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "meg kell adnod egy alredditet"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -319,7 +319,7 @@ msgstr "ez a név nem fog működni"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "túl sokszor csináltad, próbáld újra %(time)s idő múlva"
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -336,16 +336,16 @@ msgstr "nem érvényes ez az opció"
 #: r2/controllers/errors.py:70
 #, python-format
 msgid "the following emails are invalid: %(emails)s"
-msgstr ""
+msgstr "ez az email nem érvényes: %(emails)s"
 
 #: r2/controllers/errors.py:71
 msgid "please enter at least one email address"
-msgstr ""
+msgstr "kérlek adj meg legalább egy email címet"
 
 #: r2/controllers/errors.py:72
 #, python-format
 msgid "please only share to %(num)s emails at a time."
-msgstr ""
+msgstr "egyszerre csak %(num)s email címre oszd meg"
 
 #: r2/controllers/errors.py:73
 #, python-format
@@ -392,15 +392,15 @@ msgstr ""
 #: r2/controllers/errors.py:81
 #, python-format
 msgid "this is too long (max: %(max_length)s)"
-msgstr ""
+msgstr "ez túl hosszú (max: %(max_length)s)"
 
 #: r2/controllers/errors.py:82
 msgid "we need something here"
-msgstr ""
+msgstr "ide szükség van valamire"
 
 #: r2/controllers/errors.py:83
 msgid "we've never seen that code before"
-msgstr ""
+msgstr "még ilyen kóddal nem találkoztunk"
 
 #: r2/controllers/errors.py:84
 msgid "that code has already been claimed -- perhaps by you?"
@@ -408,15 +408,15 @@ msgstr ""
 
 #: r2/controllers/errors.py:85
 msgid "that reddit doesn't allow text posts"
-msgstr ""
+msgstr "ez a reddit nem engedi a szöveges hozzászólást"
 
 #: r2/controllers/errors.py:86
 msgid "that reddit only allows text posts"
-msgstr ""
+msgstr "ez a reddit csak a szöveges hozzászólást engedi"
 
 #: r2/controllers/errors.py:87
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "ez már a történelem része, erre már késő válaszolni"
 
 #: r2/controllers/errors.py:88
 msgid "invalid css name"
@@ -448,7 +448,7 @@ msgstr ""
 
 #: r2/controllers/front.py:301
 msgid "no comments (yet)"
-msgstr ""
+msgstr "nincs (még) hozzászólás"
 
 #: r2/controllers/front.py:303
 #, python-format
@@ -463,20 +463,20 @@ msgstr ""
 #: r2/controllers/front.py:328
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "mutasd mindet %d"
 
 #: r2/controllers/front.py:330
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "mutass %d"
 
 #: r2/controllers/front.py:346
 msgid "create a reddit"
-msgstr "készítsd reddit-et"
+msgstr "készíts reddit-et"
 
 #: r2/controllers/front.py:348 r2/templates/createsubreddit.html:49
 msgid "create a community"
-msgstr ""
+msgstr "alkoss egy közösséget"
 
 #: r2/controllers/front.py:401 r2/controllers/front.py:407
 #: r2/controllers/listingcontroller.py:621
@@ -494,7 +494,7 @@ msgstr ""
 
 #: r2/controllers/front.py:579 r2/lib/menus.py:142
 msgid "awards"
-msgstr ""
+msgstr "jutalmak"
 
 #: r2/controllers/front.py:609 r2/lib/menus.py:118
 msgid "related"
@@ -502,7 +502,7 @@ msgstr "hasonló"
 
 #: r2/controllers/front.py:627
 msgid "other discussions"
-msgstr ""
+msgstr "más beszélgetések"
 
 #: r2/controllers/front.py:646 r2/controllers/front.py:690
 msgid "search results"
@@ -510,7 +510,7 @@ msgstr "találatok"
 
 #: r2/controllers/front.py:742
 msgid "seen it"
-msgstr ""
+msgstr "láttam"
 
 #: r2/controllers/front.py:850 r2/templates/login.html:88
 #: r2/templates/loginformwide.html:44 r2/templates/prefdelete.html:56
@@ -520,11 +520,11 @@ msgstr "jelszó"
 
 #: r2/controllers/front.py:870 r2/controllers/front.py:886
 msgid "verify email"
-msgstr ""
+msgstr "megerősítő email"
 
 #: r2/controllers/front.py:916 r2/templates/loginformwide.html:51
 msgid "reset password"
-msgstr ""
+msgstr "jelszó visszaállítása"
 
 #: r2/controllers/front.py:1064 r2/controllers/post.py:161
 msgid "opt out"
@@ -532,32 +532,32 @@ msgstr ""
 
 #: r2/controllers/front.py:1064 r2/controllers/post.py:171
 msgid "welcome back"
-msgstr ""
+msgstr "üdv újra"
 
 #: r2/controllers/front.py:1094
 msgid "thanks"
-msgstr ""
+msgstr "kössz"
 
 #: r2/controllers/front.py:1127 r2/controllers/front.py:1149
 #: r2/lib/menus.py:101 r2/templates/gold.html:84
 msgid "reddit gold"
-msgstr ""
+msgstr "reddit arany"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "szép próbálkozás"
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "az arany szállítva!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "köszönjük, hogy megvásároltad a reddit aranyat!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
-msgstr ""
+msgstr "köszönjük a kREDDITvásárlást!"
 
 #: r2/controllers/ipn.py:460
 msgid "To spend them, visit [/gold](/gold) or your favorite person's userpage."
@@ -627,7 +627,7 @@ msgstr ""
 #: r2/controllers/listingcontroller.py:631
 #: r2/templates/printablebuttons.html:332
 msgid "unread"
-msgstr ""
+msgstr "olvasatlan"
 
 #: r2/controllers/listingcontroller.py:624
 msgid "comment replies"
@@ -651,7 +651,7 @@ msgstr "reddit-ek"
 
 #: r2/controllers/listingcontroller.py:871
 msgid "comments"
-msgstr ""
+msgstr "hozzászólások"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
@@ -663,7 +663,7 @@ msgstr ""
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
-msgstr ""
+msgstr "elmúltál 18?"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
@@ -675,11 +675,11 @@ msgstr ""
 
 #: r2/controllers/promotecontroller.py:509
 msgid "bad image"
-msgstr ""
+msgstr "rossz kép"
 
 #: r2/controllers/reddit_base.py:879
 msgid "search failed"
-msgstr ""
+msgstr "sikertelen keresés"
 
 #: r2/controllers/validator/validator.py:1502
 msgid "please provide a first name"
@@ -791,15 +791,15 @@ msgstr "fontosság"
 
 #: r2/lib/menus.py:64 r2/templates/buttontypes.html:191
 msgid "controversial"
-msgstr ""
+msgstr "vitatott"
 
 #: r2/lib/menus.py:65
 msgid "best"
-msgstr ""
+msgstr "legjobb"
 
 #: r2/lib/menus.py:66
 msgid "saved {toolbar}"
-msgstr "elmentett"
+msgstr "elmentett {toolbar}"
 
 #: r2/lib/menus.py:68
 msgid "rising"
@@ -855,7 +855,7 @@ msgstr "beállítások"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "blog"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:413
 msgid "logout"
@@ -863,15 +863,15 @@ msgstr "kilépés"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "Kapcsolatfelvétel"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "firefox kiterjesztés"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
-msgstr "reddit gombok"
+msgstr "gombok"
 
 #: r2/lib/menus.py:96
 msgid "widget"
@@ -879,11 +879,11 @@ msgstr "widget-ek"
 
 #: r2/lib/menus.py:97
 msgid "source code"
-msgstr ""
+msgstr "forráskód"
 
 #: r2/lib/menus.py:98
 msgid "mobile"
-msgstr ""
+msgstr "mobil"
 
 #: r2/lib/menus.py:99
 msgid "store"
@@ -891,7 +891,7 @@ msgstr "bolt"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "hirdet"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
@@ -903,7 +903,7 @@ msgstr "választás"
 
 #: r2/lib/menus.py:106
 msgid "RSS feeds"
-msgstr ""
+msgstr "RSS feed-ek"
 
 #: r2/lib/menus.py:107
 msgid "friends"
@@ -932,7 +932,7 @@ msgstr "elküldött"
 
 #: r2/lib/menus.py:117
 msgid "comments {toolbar}"
-msgstr "hozzászólás"
+msgstr "hozzászólás {toolbar}"
 
 #: r2/lib/menus.py:119 r2/templates/prefoptions.html:272
 #: r2/templates/prefoptions.html:281 r2/templates/prefoptions.html:290
@@ -946,11 +946,11 @@ msgstr ""
 
 #: r2/lib/menus.py:121
 msgid "traffic stats"
-msgstr ""
+msgstr "forgalmi adatok"
 
 #: r2/lib/menus.py:124
 msgid "home"
-msgstr ""
+msgstr "kezdőlap"
 
 #: r2/lib/menus.py:125 r2/lib/pages/pages.py:415
 msgid "about"
@@ -1003,19 +1003,19 @@ msgstr "saját reddit-eim"
 
 #: r2/lib/menus.py:140
 msgid "help translate"
-msgstr ""
+msgstr "segíts fordítani"
 
 #: r2/lib/menus.py:141 r2/templates/subredditstylesheet.html:88
 msgid "errors"
-msgstr ""
+msgstr "hibák"
 
 #: r2/lib/menus.py:143
 msgid "ads"
-msgstr ""
+msgstr "hirdetések"
 
 #: r2/lib/menus.py:144
 msgid "usage"
-msgstr ""
+msgstr "használat"
 
 #: r2/lib/menus.py:145
 msgid "promoted"
@@ -1040,7 +1040,7 @@ msgstr "info"
 #: r2/lib/menus.py:150 r2/templates/printablebuttons.html:164
 #: r2/templates/sharelink.html:94
 msgid "share"
-msgstr ""
+msgstr "megosztás"
 
 #: r2/lib/menus.py:152
 msgid "overview"
@@ -1060,7 +1060,7 @@ msgstr "nem tetszik"
 
 #: r2/lib/menus.py:156
 msgid "hidden {toolbar}"
-msgstr "rejtett"
+msgstr "rejtett {toolbar}"
 
 #: r2/lib/menus.py:158 r2/templates/printablebuttons.html:58
 msgid "reported"
@@ -1108,7 +1108,7 @@ msgstr ""
 
 #: r2/lib/menus.py:170
 msgid "rejected"
-msgstr ""
+msgstr "visszautasított"
 
 #: r2/lib/menus.py:172
 msgid "whitelist"
@@ -1356,7 +1356,7 @@ msgid ""
 "that link has already been submitted, but you can try to [submit it again]"
 "(%s)."
 msgstr ""
-"ezt a linkek már beküldték, de megpróbálhatod újra [submit it again](%s)"
+"ezt a linket már beküldték, de megpróbálhatod újra [küldd be újra](%s)"
 
 #: r2/lib/strings.py:69
 #, python-format
@@ -1364,8 +1364,7 @@ msgid ""
 "that link has been submitted to multiple reddits. you can try to [submit it "
 "again](%s)."
 msgstr ""
-"ezt a linket már több reddithez is beküldték, de megpróbálhatod újra [submit "
-"it again](%s)"
+"ezt a linket már több reddithez is beküldték, de megpróbálhatod újra [küldd be újra](%s)"
 
 #: r2/lib/strings.py:71
 msgid "your account has been deleted, but we won't judge you for it."
@@ -1373,11 +1372,11 @@ msgstr "a fiókodat töröltük"
 
 #: r2/lib/strings.py:73 r2/templates/frametoolbar.html:148
 msgid "you'll need to login or register to do that"
-msgstr ""
+msgstr "előbb lépj be, vagy regisztrálj"
 
 #: r2/lib/strings.py:74
 msgid "(don't worry, it only takes a few seconds)"
-msgstr ""
+msgstr "(ne aggódj, csak pár másodpercig tart)"
 
 #: r2/lib/strings.py:76
 #, python-format
